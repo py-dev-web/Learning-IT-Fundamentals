@@ -1,22 +1,22 @@
 # 🌐 Network+
 
-### 📚 Introduction to Networks  
-### 🌍 The Open Systems Interconnection Specifications  
-### 🔀 Networking Topologies, Connectors, and Wiring Standards  
-### ⚡ The Current Ethernet Specifications  
-### 🖥️ Networking Devices  
-### 🌐 Introduction to the Internet Protocol  
-### 🆔 IP Addressing  
-### 🧩 IP Subnetting, Troubleshooting IP, and Introduction to NAT  
-### 🛣️ Introduction to IP Routing  
-### 📡 Routing Protocols  
-### 🔄 Switching and Virtual LANs  
-### 📶 Wireless Networking  
-### 🔐 Authentication and Access Control  
-### 🛡️ Network Threats and Mitigation  
-### 🛠️ Physical Security and Risk  
-### 🌏 Wide Area Networks  
-### 🧰 Troubleshooting Tools  
-### 💻 Software and Hardware Tools  
-### 🛠️ Network Troubleshooting  
-### 📈 Management, Monitoring, and Optimization  
+### 📚 [Introduction to Networks](01_introduction-to-networks.md)  
+### 🌍 [The Open Systems Interconnection Specifications](02_the-open-systems-interconnection-specifications.md)  
+### 🔀 [Networking Topologies, Connectors, and Wiring Standards](03_networking-topologies-connectors-and-wiring-standards.md)  
+### ⚡ [The Current Ethernet Specifications](04_the-current-ethernet-specifications.md)  
+### 🖥️ [Networking Devices](05_networking-devices.md)  
+### 🌐 [Introduction to the Internet Protocol](06_introduction-to-the-internet-protocol.md)  
+### 🆔 [IP Addressing](07_ip-addressing.md)  
+### 🧩 [IP Subnetting, Troubleshooting IP, and Introduction to NAT](08_ip-subnetting-troubleshooting-ip-intro-to-nat.md)  
+### 🛣️ [Introduction to IP Routing](09_introduction-to-ip-routing.md)  
+### 📡 [Routing Protocols](10_routing-protocols.md)  
+### 🔄 [Switching and Virtual LANs](11_switching-and-virtual-lans.md)  
+### 📶 [Wireless Networking](12_wireless-networking.md)  
+### 🔐 [Authentication and Access Control](13_authentication-and-access-control.md)  
+### 🛡️ [Network Threats and Mitigation](14_network-threats-and-mitigation.md)  
+### 🛠️ [Physical Security and Risk](15_physical-security-and-risk.md)  
+### 🌏 [Wide Area Networks](16_wide-area-networks.md)  
+### 🧰 [Troubleshooting Tools](17_troubleshooting-tools.md)  
+### 💻 [Software and Hardware Tools](18_software-and-hardware-tools.md)  
+### 🛠️ [Network Troubleshooting](19_network-troubleshooting.md)  
+### 📈 [Management, Monitoring, and Optimization](20_management-monitoring-and-optimization.md) 
