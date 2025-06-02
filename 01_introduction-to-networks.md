@@ -182,7 +182,7 @@ A **Wide Area Network** spans large geographic distances 🌎 and connects remot
 #### 🏷️ MPLS (Multiprotocol Label Switching)
 
 🌟 **MPLS** is one of the most popular WAN technologies due to its **speed**, **flexibility**, and **efficiency**.
-
+![mpls](./images/mpls.png)
 ###### 🚀 Key Benefits of MPLS:
 - ⚙️ **Flexible physical layout**
 - 📊 **Data prioritization** (e.g., voice over data)
@@ -211,7 +211,7 @@ A **Wide Area Network** spans large geographic distances 🌎 and connects remot
 Networking enables resource and information sharing, structured mainly by the network operating system architecture. There are two main types:
 
 
-###### 🤝 Peer-to-Peer Networks
+##### 🤝 Peer-to-Peer Networks
 - No central authority; all computers are equal peers.
 - Each computer can act as both client and server.
 - Security and resource access managed locally on each machine.
@@ -222,8 +222,8 @@ Networking enables resource and information sharing, structured mainly by the ne
   - 🔓 Security issues due to decentralized password management.
   - 📝 Users must maintain passwords on each machine, often inconsistently.
 
-
-#### 🖥️ Client-Server Networks
+![Client-Server Peer-to-Peer](./images/client_server_vs_p2p.png)
+##### 🖥️ Client-Server Networks
 - Central server manages the entire network using a network operating system.
 - Client machines request resources from the central server.
 - Server handles security, access rights, and directs clients to resources.
@@ -235,7 +235,8 @@ Networking enables resource and information sharing, structured mainly by the ne
 - The server is dedicated and never used as a workstation.
 
 
-#### 🔄 Hybrid Networks
+
+##### 🔄 Hybrid Networks
 - Many modern networks combine peer-to-peer and client-server architectures.
 - Allows workstations to share resources while benefiting from server control.
 - Supports simultaneous resource sharing with some server services on workstations.
@@ -285,6 +286,7 @@ Physical topology maps the actual physical layout of devices and cables in a net
 - Combination of two or more topologies in one network.
 - Example: Star-connected hosts with a bus topology backbone.
 
+![topologies](./images/topologies.jpg)
 
 **Key Concept:**  
 - 📍 Physical topology = physical layout and cabling.  

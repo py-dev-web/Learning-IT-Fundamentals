@@ -55,11 +55,6 @@ The **Application Layer** is the **topmost layer** of the OSI model and enables 
 - Ensures **sufficient system resources** are available.
 - Manages **data integrity** and **error recovery** procedures.
 
-#### 🔁 Typical Operations:
-- Viewing a website in a browser (**HTTP**).
-- Sending/receiving emails (**SMTP, POP3, IMAP**).
-- Downloading files (**FTP, TFTP**).
-- Accessing web domains (**DNS**).
 
 #### 🛠️ Common Protocols:
 - **HTTP/HTTPS** – Web browsing
@@ -169,7 +164,7 @@ The **Transport Layer** provides **end-to-end communication** and ensures **reli
 
 
 
-#### 🔄 Connection-Oriented Communication (TCP)
+#### 🔄 Connection-Oriented Communication
 
 In connection-oriented communication, a **virtual circuit** is established **before** any actual data is transferred. This ensures **reliable, ordered, and error-checked communication** between two hosts.
 
