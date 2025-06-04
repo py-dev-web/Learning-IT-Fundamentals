@@ -164,11 +164,10 @@ A **collision domain** refers to a section of a network where data packets can "
 > 🔍 **Conclusion**: A collision domain includes all devices that compete for access on the same physical network segment. To improve performance, use **switches** or **full-duplex** links that isolate or eliminate collision domains.
 
 
+![broadcatdomain_collisiondomain](./images/broadcatdomain_collisiondomain.png)
 ### 📡 Broadcast Domain
 
 A **broadcast domain** is a network segment where **all devices** receive broadcast messages sent by any other device within that segment.
-
-
 
 #### 🧠 What Is a Broadcast?
 A **broadcast** is a message sent from one device to **all other devices** in the same broadcast domain, usually using a **Data Link Layer (Layer 2)** address (like the MAC address `FF:FF:FF:FF:FF:FF`).
